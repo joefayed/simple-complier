@@ -1,0 +1,6 @@
+int : Identifier (Integer) Variable = : Equal Number (Value) Number (Value) ; : Semicolon 
+char : Identifier (Character) Variable = : Equal Variable ; : Semicolon 
+if : Reserved Word ( : Open Brackets Variable = : Equal = : Equal Number (Value) Number (Value) ) : Closed Brackets 
+{ : Open Curly Brackets 
+Variable Operators Operators ; : Semicolon 
+} : Closed Curly Brackets 
